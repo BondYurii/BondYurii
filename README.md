@@ -1,7 +1,7 @@
-👋 Hi, I'm Yurii
+<h1>👋 Hi, I'm Yurii</h1>
 
-I'm a Senior Full-Stack Engineer with extensive experience in web and software development. 
-Over 8 years, I've worked on a variety of remote jobs, specializing in React, Node.js, TypeScript, and scalable system architecture.
+I'm a Senior Full-Stack Engineer with extensive experience in web and software development. \n
+Over 8 years, I've worked on a variety of remote jobs, specializing in React, Node.js, TypeScript, and scalable system architecture.\n
 
 🔹 I recently created this GitHub account for freelancing, as my previous work was primarily on GitLab, Bitbucket, and Jira. 
     Due to NDA restrictions, I can't share past repositories, but I've migrated select projects that are not affected by NDAs.
